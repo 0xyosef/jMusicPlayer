@@ -38,8 +38,6 @@ public class SwingAudioPlayer extends JFrame implements ActionListener {
 //    private ImageIcon iconPlay = new ImageIcon("play.png");
 //    private ImageIcon iconStop = new ImageIcon("stop.png");
 //    private ImageIcon iconPause = new ImageIcon("pause.png");
-
-
     public SwingAudioPlayer() {
         this.setTitle("Java Audio Player");
         setLayout(new GridBagLayout());
